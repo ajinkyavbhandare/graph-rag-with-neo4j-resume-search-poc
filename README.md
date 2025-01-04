@@ -3,3 +3,5 @@
 
 
 [![graph_rag](thumbnail_image_url)](public/neo4j.mp4)
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](public/neo4j.mp4)
