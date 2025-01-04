@@ -1,0 +1,49 @@
+a[href*='https://github.com/Chainlit/chainlit'] {
+    visibility: hidden;
+}
+
+body {
+    background-image: url("./image.jpg"); /* Replace with your image path */
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9));
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-size: cover; /* Cover the entire body */
+    background-position: center; /* Center the image */
+  }
+
+.MuiStack-root.css-1dph5q9 {
+background-color: rgba(92, 92, 92, 0.111); /* White with 50% opacity */
+backdrop-filter: blur(30px); /* Add a blur effect for the frosted glass look */
+}
+
+.MuiBox-root.css-nrdedq {
+background-color: rgba(94, 6, 6, 0.111); /* White with 50% opacity */
+backdrop-filter: blur(80px); /* Add a blur effect for the frosted glass look */
+}
+
+.MuiAvatar-root.MuiAvatar-circular.MuiAvatar-colorDefault.css-1j0k7rp {
+background-color: rgba(113, 113, 113, 0.111); /* White with 50% opacity */
+backdrop-filter: blur(80px); /* Add a blur effect for the frosted glass look */
+}
+
+img {
+    display: none;
+  }
+
+.MuiDrawer-root.MuiDrawer-modal.chat-history-drawer.MuiModal-root.css-1ctp3sk {
+background-color: #ffffff; /* Replace with your desired color */
+}
+
+.MuiStack-root.css-kfav3h {
+  background-color: rgba(70, 69, 69, 0.161);
+  -webkit-backdrop-filter: blur(80px);
+  border-radius: 1.5rem;
+  color: rgb(243, 243, 243);
+  width: auto;
+  max-width: 70%;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: relative;
+  -webkit-box-flex: 0;
+  flex-grow: 0;
+}
